@@ -67,28 +67,28 @@ Também apresenta a resolução solicitada no enunciado do exercício.
   - "Recebi o produto conforme o pedido."
   - "O tamanho está correto."
 - **Palavras:**
-  - ["produto", "pedido", "tamanho", "correto", "adequado"]
+  - ["aceitável", "conforme", "esperado", "correto", "adequado"]
 
 **d) Opinião negativa referente a carro:**
 - **Frases:**
   - "O carro apresentou problemas no motor logo após a compra."
   - "A pintura veio com arranhões."
 - **Palavras:**
-  - ["problemas", "motor", "arranhões", "defeito", "quebrado"]
+  - ["problemas", "falhas", "arranhões", "defeito", "quebrado"]
 
 **e) Opinião positiva referente a carro:**
 - **Frases:**
   - "Estou satisfeito com o desempenho do veículo."
   - "Ótimo atendimento e o carro é excelente."
 - **Palavras:**
-  - ["satisfeito", "desempenho", "ótimo", "excelente", "recomendado"]
+  - ["satisfeito", "confortável", "ótimo", "excelente", "recomendado"]
 
 **f) Opinião neutra referente a carro:**
 - **Frases:**
   - "O carro foi entregue na data combinada."
-  - "Recebi todos os documentos do veículo."
+  - "Recebi todos os documentos do veículo adequadamente."
 - **Palavras:**
-  - ["entregue", "data", "documentos", "veículo", "recebido"]
+  - ["entregue", "combinado", "adequado", "correto", "recebido"]
 
 ---
 

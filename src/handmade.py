@@ -78,7 +78,6 @@ neutras_vestuario = [
     "correto",
     "entregue",
     "aceitável",
-    "pedido",
 ]
 
 positivas_carros = [
@@ -107,13 +106,12 @@ negativas_carros = [
 ]
 neutras_carros = [
     "entregue",
-    "data",
-    "documentação",
     "atendeu",
-    "experiência",
-    "papelada",
     "ausente",
     "correto",
+    "combinada",
+    "adequado",
+
 ]
 
 
